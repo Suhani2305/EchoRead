@@ -247,7 +247,7 @@ export function Sidebar({ className }: SidebarProps) {
               <LogOut className="mr-2 h-4 w-4" />
               Sign Out
             </Button>
-            <p className="text-xs text-center mt-4 text-white/50">EchoRead v1.2.0 • Demo Mode</p>
+            <p className="text-xs text-center mt-4 text-white/50">EchoRead</p>
           </div>
         </div>
       </aside>
